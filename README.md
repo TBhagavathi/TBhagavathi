@@ -64,11 +64,13 @@ A food ordering application UI/UX design project.
 ## 🤝 Connect With Me
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/t-bhagavathi-6400693a0/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
   <a href="https://github.com/TBhagavathi">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Visit-black?style=for-the-badge&logo=github" />
   </a>
 </p>
-
 ---
 
 <p align="center">
